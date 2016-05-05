@@ -1,0 +1,8 @@
+'use strict';
+
+var hoge = 2;
+var fuga = 'abc';
+var piyo = 'aaaaaaaa';
+
+console.log(hoge + fuga + piyo);
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3NyYy9ob2dlLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQUEsSUFBTSxPQUFPLENBQWI7QUFDQSxJQUFNLE9BQU8sS0FBYjtBQUNBLElBQUksT0FBTyxVQUFYOztBQUVBLFFBQVEsR0FBUixDQUFZLE9BQU8sSUFBUCxHQUFjLElBQTFCIiwiZmlsZSI6ImhvZ2UuanMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCBob2dlID0gMjtcbmNvbnN0IGZ1Z2EgPSAnYWJjJztcbnZhciBwaXlvID0gJ2FhYWFhYWFhJztcblxuY29uc29sZS5sb2coaG9nZSArIGZ1Z2EgKyBwaXlvKTtcbiJdfQ==
