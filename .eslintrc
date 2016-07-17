@@ -6,6 +6,7 @@ env:
 parserOptions:
   sourceType: module
 
+# この資料でes2015関連参考になる http://yoshiko-pg.github.io/slides/20160512-frontend-biz/
 rules:
   no-new: 0
   no-unused-vars:
@@ -18,6 +19,7 @@ rules:
   quotes:
     - error
     - single
+    - allowTemplateLiterals: true
   linebreak-style:
     - error
     - unix
